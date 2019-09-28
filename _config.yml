@@ -43,11 +43,12 @@ social:
     url: https://twitter.com/tb_cyrus
   - title: linkedin
     url: https://www.linkedin.com/in/kourosh-t-baghaei
-  - title: RG
-    url: https://www.researchgate.net/profile/Kourosh_Teimouri_Baghaei
   - title: github
     url: http://github.com/k-timy
-
+  - title: google-plus
+    url: https://scholar.google.com/citations?user=i-NHLQ0AAAAJ&hl=en
+  - title: RG
+    url: https://www.researchgate.net/profile/Kourosh_Teimouri_Baghaei
 # Postal address (add as many lines as necessary)
 address:
   - line: Starkville, MS 39759
